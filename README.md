@@ -1,4 +1,4 @@
-# Hi there, ¡Welcome! 👋
+# ¡Welcome! 👋
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
 ![Node](https://img.shields.io/badge/Node-Intermediate-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)

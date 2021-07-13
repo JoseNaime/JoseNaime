@@ -1,4 +1,8 @@
-## Hi there, ¡Welcome! 👋
+# Hi there, ¡Welcome! 👋
+![React](https://img.shields.io/badge/React-Intermediate-blue)
+![Node](https://img.shields.io/badge/Node-Intermediate-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![Swift](https://img.shields.io/badge/Swift-Basic-orange)
 
 Passionate about technology, highly organized, and hard-working. Always learning and developing new projects to obtain skills and knowledge. Something about me is that I'm always up to new challenges in my life. 
 **For me, there are no learning limits.**

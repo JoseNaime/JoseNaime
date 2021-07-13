@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there, ¡Welcome! 👋
+
+Passionate about technology, highly organized, and hard-working. Always learning and developing new projects to obtain skills and knowledge. Something about me is that I'm always up to new challenges in my life. 
+**For me, there are no learning limits.**
+
+### More About Me
+
+- 🎉 I’m 19 years old & I'm from Mexico
+- 💼 I’m currently on an Intenrship with [Advanced Network Management Inc (ANM)](https://anm.com)
+- 📚 I’m currently learning more about 
+  - 📱 iOS mobile development 
+  - 🖥 Web Development
+- 🤔 I’m looking for help with **Web Development**
 
 <!--
 **JoseNaime/JoseNaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

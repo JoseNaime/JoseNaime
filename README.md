@@ -16,7 +16,7 @@ Passionate about technology, highly organized, and hard-working. Always learning
 - 📚 I’m currently learning more about 
   - 📱 iOS mobile development 
   - 🖥 Web Development
-- 🤔 I’m looking for help with **Web Development**
+
 
 <!--
 **JoseNaime/JoseNaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

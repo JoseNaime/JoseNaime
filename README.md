@@ -1,6 +1,6 @@
 # ¡Welcome! 👋
-![React](https://img.shields.io/badge/React-Intermediate-blue)
-![Node](https://img.shields.io/badge/Node-Intermediate-green)
+![React.js](https://img.shields.io/badge/React-Intermediate-blue)
+![Node.js](https://img.shields.io/badge/Node-Intermediate-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Swift](https://img.shields.io/badge/Swift-Basic-orange)
 
@@ -11,11 +11,11 @@ Passionate about technology, highly organized, and hard-working. Always learning
 
 ### More About Me
 
-- 🎉 I’m 19 years old & I'm from Mexico
+- 🎉 I’m 19 years old and I'm from Mexico
 - 💼 I’m currently on an Intenrship with [Advanced Network Management Inc (ANM)](https://anm.com)
 - 📚 I’m currently learning more about 
-  - 📱 iOS mobile development 
   - 🖥 Web Development
+  - 📱 iOS mobile development 
 
 
 <!--

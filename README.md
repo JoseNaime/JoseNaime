@@ -1,7 +1,7 @@
 # ¡Welcome! 👋
 ![React.js](https://img.shields.io/badge/React-Intermediate-blue)
 ![Node.js](https://img.shields.io/badge/Node-Intermediate-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![Swift](https://img.shields.io/badge/Swift-Basic-orange)
 
 ![CodeWars](https://www.codewars.com/users/JoseN/badges/small)

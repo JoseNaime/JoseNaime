@@ -1,4 +1,4 @@
-# ¡Welcome! 👋
+# Welcome! 👋
 ![React.js](https://img.shields.io/badge/React-Intermediate-blue)
 ![Node.js](https://img.shields.io/badge/Node-Intermediate-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
@@ -16,19 +16,4 @@ Passionate about technology, highly organized, and hard-working. Always learning
 - 📚 I’m currently learning more about 
   - 🖥 Web Development
   - 📱 iOS mobile development 
-
-
-<!--
-**JoseNaime/JoseNaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🪙 Blockchain Apps

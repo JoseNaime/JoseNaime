@@ -9,7 +9,7 @@ Always learning and developing new projects to obtain skills and knowledge. Some
 
 ### More About Me
 
-- 🎉 I’m 19 years old and I'm from Mexico
+- 🎉 I’m 20 years old and I'm from Mexico
 - 💼 I’m currently on an Intenrship with [Advanced Network Management Inc (ANM)](https://anm.com)
 - 🎧 Music is my way out.
 - 🌙 I love space related themes.

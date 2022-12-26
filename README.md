@@ -10,15 +10,10 @@ Always learning and developing new projects to obtain skills and knowledge. Some
 ### More About Me
 
 - 🎉 I’m 20 years old and I'm from Mexico
-- 💼 I’m currently on an Intenrship with [Advanced Network Management Inc (ANM)](https://anm.com)
+- 💼 Currently on an Intenrship with [Advanced Network Management Inc (ANM)](https://anm.com) as a Salesforce Developer
 - 🎧 Music is my way out.
 - 🌙 I love space related themes.
 - 🔶 Orange is my favorite color.
-- 👾 Playing video games with friends is something I enjoy.
-- 📚 I’m currently learning more about 
-  - 🖥 Web Development
-  - 📱 iOS mobile development 
-  - 🪙 Blockchain Apps
 
 ## Experience with...
 ### Frameworks, Platforms and Libraries
@@ -35,13 +30,16 @@ Always learning and developing new projects to obtain skills and knowledge. Some
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
  - Basic experience and knowledge
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)

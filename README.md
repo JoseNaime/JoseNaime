@@ -7,8 +7,7 @@ My passion for continuous learning and skill acquisition is what drives me. **I 
 
 ### More About Me
 
-- 🎉 I’m 20 years old and I'm from Mexico
-- 💼 I previously worked as a Salesforce Developer at [Advanced Network Management Inc (ANM)](https://anm.com) (2+ years). Currenlty I'm freelancing in [Fiverr](https://www.fiverr.com/josenaime)
+- 💼 Previously worked as a Salesforce Developer at [Advanced Network Management Inc (ANM)](https://anm.com) (2+ years). Currenlty I'm freelancing in [Fiverr](https://www.fiverr.com/josenaime)
 - 🎧 Music is my way out.
 - 🌙 I'm fascinated by space-related themes.
 - 🔶 Orange is my favorite color.

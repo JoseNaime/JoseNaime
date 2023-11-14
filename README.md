@@ -5,13 +5,6 @@ I have extensive experience developing various projects in my free time, constan
 
 My passion for continuous learning and skill acquisition is what drives me. **I am always up for new challenges and believe that there are no limits to what I can learn.**
 
-### More About Me
-
-- 💼 Previously worked as a Salesforce Developer at [Advanced Network Management Inc (ANM)](https://anm.com) (2+ years). Currenlty I'm freelancing in [Fiverr](https://www.fiverr.com/josenaime)
-- 🎧 Music is my way out.
-- 🌙 I'm fascinated by space-related themes.
-- 🔶 Orange is my favorite color.
-
 ## Experience with...
 ### Frameworks, Platforms and Libraries
 ![Next.js](https://img.shields.io/badge/next.js-%230769AD.svg?style=for-the-badge&logo=next&logoColor=white)
